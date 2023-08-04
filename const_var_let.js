@@ -15,5 +15,5 @@ let d  = undefined
 console.log(b)
 
 //let is block scoped | can't be redeclared
-//var is gone now | var introduces bug 
+//var is gone now | var introduces bug|| it is function scoped 
 //const for determining fix value ,can't be changed
